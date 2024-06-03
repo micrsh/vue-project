@@ -1,6 +1,6 @@
 # vue-project
 
-This template should help get you started developing with Vue 3 in Vite.
+Dự án triệu $ với hy vọng được các tập đoàn đa quốc gia dòm ngó 😎
 
 ## Recommended IDE Setup
 
